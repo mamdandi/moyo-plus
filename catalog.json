@@ -4,7 +4,7 @@
     "name": "산사",
     "category": "가상공간",
     "sub": "종교·명상",
-    "description": "온라인에서 사찰의 분위기를 경험하는 가상공간.",
+    "description": "온라인에서 사찰과 전통 건축의 분위기를 살펴보고, 명상과 마음챙김을 위한 디지털 공간을 경험할 수 있는 서비스입니다. 제공되는 콘텐츠와 이용 방식은 공식 사이트에서 확인하세요.",
     "url": "https://sansa.space/",
     "kind": "virtual",
     "tags": [
@@ -16,7 +16,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=sansa.space&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -25,7 +25,7 @@
     "name": "Spatial",
     "category": "가상공간",
     "sub": "소통·창작",
-    "description": "창작자가 만든 3D 공간과 가상 경험을 둘러보는 플랫폼.",
+    "description": "브라우저와 다양한 기기에서 3D 가상공간을 만들고 방문할 수 있는 플랫폼입니다. 전시, 이벤트, 브랜드 경험과 소셜 공간 제작에 활용할 수 있습니다.",
     "url": "https://www.spatial.io/",
     "kind": "virtual",
     "tags": [
@@ -37,7 +37,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=spatial.io&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -46,7 +46,7 @@
     "name": "VRChat",
     "category": "가상공간",
     "sub": "소통·아바타",
-    "description": "이용자가 만든 가상 월드에서 아바타로 소통하는 플랫폼.",
+    "description": "아바타를 통해 전 세계 이용자와 만나고, 커뮤니티가 제작한 다양한 가상 월드를 탐험하는 소셜 VR 플랫폼입니다. VR 기기뿐 아니라 데스크톱 환경에서도 이용할 수 있습니다.",
     "url": "https://hello.vrchat.com/",
     "kind": "virtual",
     "tags": [
@@ -57,7 +57,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=vrchat.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -66,7 +66,7 @@
     "name": "Roblox",
     "category": "가상공간",
     "sub": "게임·체험",
-    "description": "이용자 제작 게임과 체험형 가상공간 플랫폼.",
+    "description": "이용자가 직접 만든 수많은 게임과 인터랙티브 경험을 플레이하고, Roblox Studio로 자신만의 콘텐츠를 제작·공유할 수 있는 플랫폼입니다.",
     "url": "https://www.roblox.com/",
     "kind": "virtual",
     "tags": [
@@ -77,7 +77,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=roblox.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -86,7 +86,7 @@
     "name": "Gather",
     "category": "가상공간",
     "sub": "모임·협업",
-    "description": "아바타로 이동하며 대화하고 협업하는 온라인 공간.",
+    "description": "아바타로 가상 사무실과 모임 공간을 돌아다니며 대화하고 협업하는 온라인 공간 플랫폼입니다. 원격 회의, 팀 워크숍, 커뮤니티 모임 등에 활용할 수 있습니다.",
     "url": "https://www.gather.town/",
     "kind": "virtual",
     "tags": [
@@ -97,7 +97,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=gather.town&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -106,7 +106,7 @@
     "name": "Decentraland",
     "category": "가상공간",
     "sub": "가상세계",
-    "description": "브라우저에서 탐색하는 분산형 가상세계 플랫폼.",
+    "description": "이용자가 아바타로 3D 가상세계를 탐험하고, 이벤트와 전시 및 커뮤니티 활동에 참여할 수 있는 분산형 가상세계 프로젝트입니다.",
     "url": "https://decentraland.org/",
     "kind": "virtual",
     "tags": [
@@ -117,7 +117,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=decentraland.org&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -126,7 +126,7 @@
     "name": "OnCyber",
     "category": "가상공간",
     "sub": "전시·갤러리",
-    "description": "디지털 아트와 전시를 위한 3D 가상 갤러리.",
+    "description": "디지털 아트와 NFT 작품을 3D 공간에 배치해 온라인 갤러리와 전시 공간을 구성하고 공유할 수 있는 가상 전시 플랫폼입니다.",
     "url": "https://oncyber.io/",
     "kind": "virtual",
     "tags": [
@@ -137,7 +137,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=oncyber.io&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -146,7 +146,7 @@
     "name": "Rec Room",
     "category": "가상공간",
     "sub": "게임·소셜",
-    "description": "게임과 소셜 활동을 함께 즐기는 가상 경험 플랫폼.",
+    "description": "이용자가 만든 게임과 소셜 공간을 함께 즐기고, 직접 방과 활동을 제작해 공유할 수 있는 크로스플랫폼 소셜 게임 서비스입니다.",
     "url": "https://recroom.com/",
     "kind": "virtual",
     "tags": [
@@ -157,7 +157,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=recroom.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -166,7 +166,7 @@
     "name": "Excalidraw",
     "category": "생산성",
     "sub": "온라인 화이트보드",
-    "description": "손그림 느낌의 다이어그램과 아이디어를 만드는 도구.",
+    "description": "손으로 그린 듯한 간결한 스타일로 아이디어 스케치, 순서도, 시스템 구조와 다이어그램을 빠르게 만들고 협업할 수 있는 온라인 화이트보드입니다.",
     "url": "https://excalidraw.com/",
     "kind": "tool",
     "tags": [
@@ -177,7 +177,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=excalidraw.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -186,7 +186,7 @@
     "name": "tldraw",
     "category": "생산성",
     "sub": "무한 캔버스",
-    "description": "브라우저에서 아이디어와 흐름을 자유롭게 그리는 캔버스.",
+    "description": "무한 캔버스에서 메모, 도형, 스케치와 다이어그램을 자유롭게 배치하고, 실시간 협업과 인터랙티브 보드 제작에 활용할 수 있는 도구입니다.",
     "url": "https://www.tldraw.com/",
     "kind": "tool",
     "tags": [
@@ -197,7 +197,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=tldraw.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -206,7 +206,7 @@
     "name": "Photopea",
     "category": "디자인",
     "sub": "온라인 이미지 편집",
-    "description": "브라우저에서 이미지와 PSD 파일을 편집하는 도구.",
+    "description": "설치 없이 브라우저에서 사진과 그래픽을 편집할 수 있는 온라인 이미지 편집기입니다. PSD를 비롯한 다양한 파일 형식을 열고 레이어 기반 작업을 할 수 있습니다.",
     "url": "https://www.photopea.com/",
     "kind": "tool",
     "tags": [
@@ -217,7 +217,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=photopea.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -226,7 +226,7 @@
     "name": "remove.bg",
     "category": "디자인",
     "sub": "배경 제거",
-    "description": "이미지의 배경을 자동으로 제거하는 온라인 도구.",
+    "description": "이미지에서 인물이나 제품 등의 전경을 자동으로 인식해 배경을 제거하고 투명 배경 이미지로 만드는 온라인 도구입니다.",
     "url": "https://www.remove.bg/",
     "kind": "tool",
     "tags": [
@@ -237,7 +237,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=remove.bg&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -246,7 +246,7 @@
     "name": "Canva",
     "category": "디자인",
     "sub": "콘텐츠 제작",
-    "description": "프레젠테이션과 포스터 등 디자인 콘텐츠 제작 플랫폼.",
+    "description": "프레젠테이션, 포스터, 문서, 소셜 미디어 콘텐츠와 영상 등을 템플릿 및 편집 도구로 제작하고 팀과 공유할 수 있는 디자인 플랫폼입니다.",
     "url": "https://www.canva.com/",
     "kind": "tool",
     "tags": [
@@ -257,7 +257,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -266,7 +266,7 @@
     "name": "regex101",
     "category": "개발",
     "sub": "정규식 테스트",
-    "description": "정규표현식을 작성하고 테스트하는 개발 도구.",
+    "description": "정규표현식을 작성하고 여러 예제 문자열에 적용해 결과를 확인할 수 있는 개발자 도구입니다. 다양한 정규식 엔진과 설명·디버깅 기능을 제공합니다.",
     "url": "https://regex101.com/",
     "kind": "tool",
     "tags": [
@@ -277,7 +277,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=regex101.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -286,7 +286,7 @@
     "name": "JSON Formatter",
     "category": "개발",
     "sub": "JSON 정리·검증",
-    "description": "JSON 데이터를 정리하고 검증하는 도구.",
+    "description": "JSON 데이터를 보기 좋게 정렬하고 문법 오류를 확인하며 압축·검증할 수 있는 온라인 개발 보조 도구입니다.",
     "url": "https://jsonformatter.org/",
     "kind": "tool",
     "tags": [
@@ -297,7 +297,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=jsonformatter.org&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -306,7 +306,7 @@
     "name": "CodePen",
     "category": "개발",
     "sub": "프론트엔드 실험실",
-    "description": "HTML·CSS·JavaScript를 작성하고 공유하는 플랫폼.",
+    "description": "HTML, CSS, JavaScript 코드를 브라우저에서 작성하고 즉시 결과를 미리 보며, 작은 웹 프로젝트와 프런트엔드 실험을 공유할 수 있는 개발 커뮤니티입니다.",
     "url": "https://codepen.io/",
     "kind": "tool",
     "tags": [
@@ -318,7 +318,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=codepen.io&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -327,7 +327,7 @@
     "name": "StackBlitz",
     "category": "개발",
     "sub": "온라인 개발환경",
-    "description": "브라우저에서 프로젝트를 실행하고 공유하는 개발 환경.",
+    "description": "브라우저에서 웹 개발 환경을 실행하고 프로젝트를 편집·실행·공유할 수 있는 온라인 IDE입니다. 별도 로컬 개발환경 설정을 줄이고 빠른 프로토타이핑에 활용할 수 있습니다.",
     "url": "https://stackblitz.com/",
     "kind": "tool",
     "tags": [
@@ -338,7 +338,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=stackblitz.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -347,7 +347,7 @@
     "name": "Mermaid Live Editor",
     "category": "생산성",
     "sub": "다이어그램 생성",
-    "description": "텍스트로 흐름도와 다이어그램을 만드는 도구.",
+    "description": "텍스트 기반 문법으로 흐름도, 시퀀스 다이어그램, 간트 차트와 구조도를 작성하고 즉시 미리 볼 수 있는 다이어그램 편집기입니다.",
     "url": "https://mermaid.live/",
     "kind": "tool",
     "tags": [
@@ -358,7 +358,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=mermaid.live&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -367,7 +367,7 @@
     "name": "WolframAlpha",
     "category": "교육",
     "sub": "지식·계산",
-    "description": "수학과 과학 등 다양한 분야의 질문을 계산·분석하는 엔진.",
+    "description": "자연어 또는 수식으로 질문하면 수학·과학·통계 등 다양한 분야의 계산 결과와 단계별 분석 정보를 제공하는 계산 지식 엔진입니다.",
     "url": "https://www.wolframalpha.com/",
     "kind": "tool",
     "tags": [
@@ -378,7 +378,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=wolframalpha.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -387,7 +387,7 @@
     "name": "Desmos",
     "category": "교육",
     "sub": "그래프 계산기",
-    "description": "함수 그래프와 수학 개념을 시각적으로 탐구하는 도구.",
+    "description": "함수와 방정식을 입력해 그래프를 그리고, 변수를 움직이며 수학 개념과 함수의 변화를 시각적으로 탐구할 수 있는 그래프 계산기입니다.",
     "url": "https://www.desmos.com/calculator",
     "kind": "tool",
     "tags": [
@@ -398,7 +398,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=desmos.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   },
@@ -407,7 +407,7 @@
     "name": "Google Earth",
     "category": "탐험",
     "sub": "가상 지구 탐험",
-    "description": "위성 이미지와 3D 지형으로 세계 곳곳을 탐험하는 서비스.",
+    "description": "위성 영상과 항공 사진, 3D 지형 및 건물 데이터를 바탕으로 지구 곳곳을 탐색하고 장소와 지형을 살펴볼 수 있는 가상 지구 서비스입니다.",
     "url": "https://earth.google.com/web/",
     "kind": "tool",
     "tags": [
@@ -418,7 +418,7 @@
     "mobile_friendly": null,
     "verified": false,
     "verified_at": null,
-    "image_url": "",
+    "image_url": "https://www.google.com/s2/favicons?domain=earth.google.com&sz=128",
     "created_at": "2026-11-09T00:00:00Z",
     "favoriteCount": 0
   }
