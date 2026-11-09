@@ -1,0 +1,425 @@
+[
+  {
+    "id": "sansa",
+    "name": "산사",
+    "category": "가상공간",
+    "sub": "종교·명상",
+    "description": "온라인에서 사찰의 분위기를 경험하는 가상공간.",
+    "url": "https://sansa.space/",
+    "kind": "virtual",
+    "tags": [
+      "사찰",
+      "불교",
+      "명상"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "spatial",
+    "name": "Spatial",
+    "category": "가상공간",
+    "sub": "소통·창작",
+    "description": "창작자가 만든 3D 공간과 가상 경험을 둘러보는 플랫폼.",
+    "url": "https://www.spatial.io/",
+    "kind": "virtual",
+    "tags": [
+      "3D",
+      "월드",
+      "커뮤니티"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "vrchat",
+    "name": "VRChat",
+    "category": "가상공간",
+    "sub": "소통·아바타",
+    "description": "이용자가 만든 가상 월드에서 아바타로 소통하는 플랫폼.",
+    "url": "https://hello.vrchat.com/",
+    "kind": "virtual",
+    "tags": [
+      "아바타",
+      "월드"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "roblox",
+    "name": "Roblox",
+    "category": "가상공간",
+    "sub": "게임·체험",
+    "description": "이용자 제작 게임과 체험형 가상공간 플랫폼.",
+    "url": "https://www.roblox.com/",
+    "kind": "virtual",
+    "tags": [
+      "게임",
+      "체험"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "gather",
+    "name": "Gather",
+    "category": "가상공간",
+    "sub": "모임·협업",
+    "description": "아바타로 이동하며 대화하고 협업하는 온라인 공간.",
+    "url": "https://www.gather.town/",
+    "kind": "virtual",
+    "tags": [
+      "모임",
+      "협업"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "decentraland",
+    "name": "Decentraland",
+    "category": "가상공간",
+    "sub": "가상세계",
+    "description": "브라우저에서 탐색하는 분산형 가상세계 플랫폼.",
+    "url": "https://decentraland.org/",
+    "kind": "virtual",
+    "tags": [
+      "가상세계",
+      "전시"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "oncyber",
+    "name": "OnCyber",
+    "category": "가상공간",
+    "sub": "전시·갤러리",
+    "description": "디지털 아트와 전시를 위한 3D 가상 갤러리.",
+    "url": "https://oncyber.io/",
+    "kind": "virtual",
+    "tags": [
+      "전시",
+      "미술"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "recroom",
+    "name": "Rec Room",
+    "category": "가상공간",
+    "sub": "게임·소셜",
+    "description": "게임과 소셜 활동을 함께 즐기는 가상 경험 플랫폼.",
+    "url": "https://recroom.com/",
+    "kind": "virtual",
+    "tags": [
+      "게임",
+      "소셜"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "excalidraw",
+    "name": "Excalidraw",
+    "category": "생산성",
+    "sub": "온라인 화이트보드",
+    "description": "손그림 느낌의 다이어그램과 아이디어를 만드는 도구.",
+    "url": "https://excalidraw.com/",
+    "kind": "tool",
+    "tags": [
+      "화이트보드",
+      "다이어그램"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "tldraw",
+    "name": "tldraw",
+    "category": "생산성",
+    "sub": "무한 캔버스",
+    "description": "브라우저에서 아이디어와 흐름을 자유롭게 그리는 캔버스.",
+    "url": "https://www.tldraw.com/",
+    "kind": "tool",
+    "tags": [
+      "캔버스",
+      "스케치"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "photopea",
+    "name": "Photopea",
+    "category": "디자인",
+    "sub": "온라인 이미지 편집",
+    "description": "브라우저에서 이미지와 PSD 파일을 편집하는 도구.",
+    "url": "https://www.photopea.com/",
+    "kind": "tool",
+    "tags": [
+      "이미지",
+      "PSD"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "removebg",
+    "name": "remove.bg",
+    "category": "디자인",
+    "sub": "배경 제거",
+    "description": "이미지의 배경을 자동으로 제거하는 온라인 도구.",
+    "url": "https://www.remove.bg/",
+    "kind": "tool",
+    "tags": [
+      "이미지",
+      "배경제거"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "category": "디자인",
+    "sub": "콘텐츠 제작",
+    "description": "프레젠테이션과 포스터 등 디자인 콘텐츠 제작 플랫폼.",
+    "url": "https://www.canva.com/",
+    "kind": "tool",
+    "tags": [
+      "디자인",
+      "템플릿"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "regex101",
+    "name": "regex101",
+    "category": "개발",
+    "sub": "정규식 테스트",
+    "description": "정규표현식을 작성하고 테스트하는 개발 도구.",
+    "url": "https://regex101.com/",
+    "kind": "tool",
+    "tags": [
+      "정규식",
+      "테스트"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "jsonformatter",
+    "name": "JSON Formatter",
+    "category": "개발",
+    "sub": "JSON 정리·검증",
+    "description": "JSON 데이터를 정리하고 검증하는 도구.",
+    "url": "https://jsonformatter.org/",
+    "kind": "tool",
+    "tags": [
+      "JSON",
+      "개발"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "codepen",
+    "name": "CodePen",
+    "category": "개발",
+    "sub": "프론트엔드 실험실",
+    "description": "HTML·CSS·JavaScript를 작성하고 공유하는 플랫폼.",
+    "url": "https://codepen.io/",
+    "kind": "tool",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "stackblitz",
+    "name": "StackBlitz",
+    "category": "개발",
+    "sub": "온라인 개발환경",
+    "description": "브라우저에서 프로젝트를 실행하고 공유하는 개발 환경.",
+    "url": "https://stackblitz.com/",
+    "kind": "tool",
+    "tags": [
+      "코딩",
+      "IDE"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "mermaid",
+    "name": "Mermaid Live Editor",
+    "category": "생산성",
+    "sub": "다이어그램 생성",
+    "description": "텍스트로 흐름도와 다이어그램을 만드는 도구.",
+    "url": "https://mermaid.live/",
+    "kind": "tool",
+    "tags": [
+      "다이어그램",
+      "흐름도"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "wolframalpha",
+    "name": "WolframAlpha",
+    "category": "교육",
+    "sub": "지식·계산",
+    "description": "수학과 과학 등 다양한 분야의 질문을 계산·분석하는 엔진.",
+    "url": "https://www.wolframalpha.com/",
+    "kind": "tool",
+    "tags": [
+      "수학",
+      "과학"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "desmos",
+    "name": "Desmos",
+    "category": "교육",
+    "sub": "그래프 계산기",
+    "description": "함수 그래프와 수학 개념을 시각적으로 탐구하는 도구.",
+    "url": "https://www.desmos.com/calculator",
+    "kind": "tool",
+    "tags": [
+      "수학",
+      "그래프"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  },
+  {
+    "id": "earth",
+    "name": "Google Earth",
+    "category": "탐험",
+    "sub": "가상 지구 탐험",
+    "description": "위성 이미지와 3D 지형으로 세계 곳곳을 탐험하는 서비스.",
+    "url": "https://earth.google.com/web/",
+    "kind": "tool",
+    "tags": [
+      "지도",
+      "여행"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "",
+    "created_at": "2026-11-09T00:00:00Z",
+    "favoriteCount": 0
+  }
+]
