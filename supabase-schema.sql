@@ -132,3 +132,62 @@ insert into public.moyo_tools(id,name,category,sub,description,url,kind,tags,pri
 -- 2) 아래 YOUR_AUTH_USER_UUID를 해당 사용자의 UUID로 바꿔 실행합니다.
 -- insert into public.moyo_admins(user_id) values ('YOUR_AUTH_USER_UUID') on conflict do nothing;
 -- Realtime: Database > Publications에서 public.moyo_tools 테이블의 UPDATE 이벤트를 활성화하세요.
+
+-- Community self-registration. Run this migration in Supabase SQL Editor before using the new form.
+-- The daily limit is GLOBAL (not per user), resets at midnight Asia/Seoul.
+create table if not exists public.moyo_community_submissions (
+ id uuid primary key default gen_random_uuid(),
+ tool_id text not null references public.moyo_tools(id) on delete cascade,
+ created_at timestamptz not null default now()
+);
+create index if not exists moyo_community_submissions_created_idx on public.moyo_community_submissions(created_at);
+alter table public.moyo_community_submissions enable row level security;
+revoke all on public.moyo_community_submissions from anon, authenticated;
+
+create or replace function public.moyo_canonical_url(p_url text)
+returns text language plpgsql immutable as $$
+declare v text;
+begin
+ v:=lower(trim(coalesce(p_url,'')));
+ if v !~ '^https://[^/?#[:space:]]+' then return null; end if;
+ v:=regexp_replace(v,'^https://(www[.])?','');
+ v:=split_part(split_part(v,'?',1),'#',1);
+ v:=regexp_replace(v,'/+$','');
+ return v;
+end; $$;
+
+create or replace function public.moyo_submit_site(
+ p_name text,p_url text,p_category text,p_sub text default '',
+ p_description text default '',p_price_type text default '확인 필요',
+ p_mobile_friendly boolean default false
+) returns jsonb
+language plpgsql security definer set search_path=public,pg_temp as $$
+declare v_canonical text;v_id text;v_today date;v_count integer;
+begin
+ -- Serialize all submissions so simultaneous requests cannot bypass the quota.
+ perform pg_advisory_xact_lock(1977, 2026);
+ v_canonical:=public.moyo_canonical_url(p_url);
+ if v_canonical is null or length(p_url)>2048 or length(trim(p_name)) not between 1 and 80
+    or length(trim(p_description)) not between 1 and 400
+    or length(coalesce(p_sub,''))>80
+    or p_category not in ('가상공간','AI','생산성','개발','디자인','교육','탐험')
+    or p_price_type not in ('확인 필요','무료','부분 무료','유료')
+    or p_url !~ '^https://[^[:space:]]+$' then
+   return jsonb_build_object('ok',false,'reason','invalid');
+ end if;
+ if exists(select 1 from public.moyo_tools where public.moyo_canonical_url(url)=v_canonical) then
+   return jsonb_build_object('ok',false,'reason','duplicate');
+ end if;
+ v_today:=(now() at time zone 'Asia/Seoul')::date;
+ select count(*) into v_count from public.moyo_community_submissions
+ where (created_at at time zone 'Asia/Seoul')::date=v_today;
+ if v_count>=30 then return jsonb_build_object('ok',false,'reason','limit'); end if;
+ v_id:='community-'||replace(gen_random_uuid()::text,'-','');
+ insert into public.moyo_tools(id,name,url,category,sub,description,kind,price_type,mobile_friendly,verified,tags)
+ values(v_id,trim(p_name),trim(p_url),p_category,trim(coalesce(p_sub,'')),trim(p_description),
+ case when p_category='가상공간' then 'virtual' else 'tool' end,p_price_type,coalesce(p_mobile_friendly,false),false,'{}');
+ insert into public.moyo_community_submissions(tool_id) values(v_id);
+ return jsonb_build_object('ok',true,'id',v_id,'remaining',29-v_count);
+end; $$;
+revoke all on function public.moyo_submit_site(text,text,text,text,text,text,boolean) from public;
+grant execute on function public.moyo_submit_site(text,text,text,text,text,text,boolean) to anon,authenticated;
