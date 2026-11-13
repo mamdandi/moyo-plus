@@ -781,11 +781,11 @@
   },
   {
     "id": "roo-code",
-    "name": "Roo Code",
+    "name": "Roomote (기존 Roo Code 링크)",
     "category": "AI",
-    "sub": "AI 코딩 에이전트",
-    "description": "코드 편집기에서 여러 작업 모드와 AI 모델을 활용해 코드를 작성하고 프로젝트 개발을 돕는 오픈소스 도구.",
-    "url": "https://roocode.com/",
+    "sub": "클라우드 코딩 에이전트",
+    "description": "기존 roocode.com이 현재 연결되는 Roomote 클라우드 코딩 에이전트. Roo Code 자체 제품과는 구분이 필요합니다.",
+    "url": "https://roomote.dev/",
     "kind": "tool",
     "tags": [
       "VS Code",
@@ -886,11 +886,11 @@
   },
   {
     "id": "kilo-code",
-    "name": "Kilo Code",
+    "name": "Kilo",
     "category": "AI",
     "sub": "AI 코딩 에이전트",
-    "description": "코드 편집기에서 AI를 활용해 계획 수립, 코드 작성, 수정과 개발 작업을 지원하는 코딩 에이전트.",
-    "url": "https://kilocode.ai/",
+    "description": "기존 kilocode.ai에서 이동한 Kilo 공식 AI 코딩 에이전트 사이트.",
+    "url": "https://kilo.ai/",
     "kind": "tool",
     "tags": [
       "AI 코딩",
