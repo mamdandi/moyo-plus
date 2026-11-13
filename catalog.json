@@ -428,7 +428,7 @@
     "category": "가상공간",
     "sub": "아바타·소셜",
     "description": "아바타를 꾸미고 다른 이용자와 소통하며 다양한 가상 월드와 콘텐츠를 경험하는 소셜 플랫폼.",
-    "url": "https://zepeto.me/",
+    "url": "https://web.zepeto.me/en",
     "kind": "virtual",
     "tags": [
       "아바타",
@@ -449,7 +449,7 @@
     "category": "가상공간",
     "sub": "모임·협업",
     "description": "아바타로 가상 공간을 이동하며 온라인 행사, 교육, 회의와 커뮤니티 모임을 운영할 수 있는 플랫폼.",
-    "url": "https://zep.us/",
+    "url": "https://zep.us/en",
     "kind": "virtual",
     "tags": [
       "가상오피스",
@@ -490,8 +490,8 @@
     "name": "Fortnite Creative",
     "category": "가상공간",
     "sub": "게임·월드 제작",
-    "description": "이용자가 직접 섬과 게임 경험을 만들고 다른 이용자와 공유할 수 있는 Fortnite 창작 모드 및 UEFN 생태계.",
-    "url": "https://www.fortnite.com/creative",
+    "description": "Fortnite Creative 및 UEFN으로 게임과 가상 공간을 제작하는 공식 개발자 페이지입니다.",
+    "url": "https://www.fortnite.com/developer",
     "kind": "virtual",
     "tags": [
       "게임 제작",
@@ -614,9 +614,9 @@
   {
     "id": "vircadia",
     "name": "Vircadia",
-    "category": "가상공간",
-    "sub": "오픈소스 가상세계",
-    "description": "오픈소스 기반으로 가상 공간과 아바타 경험을 구축하고 운영할 수 있는 소셜 VR·가상세계 플랫폼.",
+    "category": "개발",
+    "sub": "게임 인프라",
+    "description": "현재 공식 사이트는 게임용 실시간 상태 관리·서버 인프라를 소개합니다. 기존 소셜 VR 월드 탐험 서비스와 성격이 달라졌으므로 이용 목적을 확인하세요.",
     "url": "https://vircadia.com/",
     "kind": "virtual",
     "tags": [
@@ -806,7 +806,7 @@
     "category": "AI",
     "sub": "AI 소프트웨어 개발",
     "description": "코드 작성, 명령 실행, 웹 탐색 등 소프트웨어 개발 작업을 수행하도록 설계된 오픈소스 AI 에이전트 플랫폼.",
-    "url": "https://www.all-hands.dev/",
+    "url": "https://www.openhands.dev/",
     "kind": "tool",
     "tags": [
       "AI 에이전트",
@@ -827,7 +827,7 @@
     "category": "AI",
     "sub": "AI 웹 디자인·개발",
     "description": "웹 인터페이스를 시각적으로 편집하면서 코드와 연결해 디자인 및 프런트엔드 개발을 돕는 도구.",
-    "url": "https://onlook.com/",
+    "url": "https://www.onlook.com/",
     "kind": "tool",
     "tags": [
       "시각 편집",
@@ -867,9 +867,9 @@
     "id": "continue",
     "name": "Continue",
     "category": "AI",
-    "sub": "AI 코드 어시스턴트",
-    "description": "개발 환경에 AI 코드 자동완성, 채팅과 에이전트 기능을 연결해 개발 워크플로를 확장하는 오픈소스 도구.",
-    "url": "https://www.continue.dev/",
+    "sub": "인수·서비스 변경",
+    "description": "Continue는 Cursor에 인수되었으며 공식 사이트는 인수 안내와 기존 오픈소스 관련 FAQ를 제공합니다. 기존 AI 코딩 서비스와 동일하게 이용 가능한지 확인이 필요합니다.",
+    "url": "https://continue.dev/",
     "kind": "tool",
     "tags": [
       "코드 어시스턴트",
