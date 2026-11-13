@@ -931,7 +931,7 @@
     "name": "마이버스 MYVRS",
     "category": "가상공간",
     "sub": "가상 스튜디오·콘텐츠 제작",
-    "description": "국내 스케일 버추얼의 가상공간 앱. 직접 공간을 꾸미고 가상카메라로 콘텐츠를 촬영하는 서비스.",
+    "description": "국내 스케일 버추얼의 가상공간 제작·영상 촬영 앱 소개 페이지. 실제 이용에는 앱 설치 등이 필요할 수 있습니다.",
     "url": "https://myvrs.me/",
     "kind": "virtual",
     "tags": [
@@ -951,8 +951,8 @@
     "name": "THERE",
     "category": "가상공간",
     "sub": "3D 커뮤니티·메타버시티",
-    "description": "국내에서 제작한 3D 가상공간 커뮤니티. 메타버시티와 다양한 테마의 가상 공간을 소개합니다.",
-    "url": "https://there.space/",
+    "description": "국내 3D 가상공간 커뮤니티 THERE 공식 사이트. Windows·Mac 및 모바일 앱 다운로드를 안내합니다.",
+    "url": "https://www.there.space/",
     "kind": "virtual",
     "tags": [
       "국내 제작",
@@ -971,7 +971,7 @@
     "name": "도미네이트",
     "category": "가상공간",
     "sub": "AR·메타버스 월드 제작",
-    "description": "국내 메타버스 제작사의 가상세계 프로젝트와 AR 공간 구축 사례를 소개하는 사이트.",
+    "description": "국내 AR·메타버스 제작사 도미네이트의 공식 포트폴리오 및 서비스 소개 사이트. 직접 입장하는 월드는 아닙니다.",
     "url": "https://dominate.co.kr/",
     "kind": "virtual",
     "tags": [
@@ -991,7 +991,7 @@
     "name": "퍼니웍스 가상공간",
     "category": "가상공간",
     "sub": "브랜드·교육 가상공간",
-    "description": "국내 제작팀이 만든 ZEP 기반 브랜드 전시, 교육 및 이벤트 가상공간 사례를 소개합니다.",
+    "description": "국내 퍼니웍스의 ZEP 기반 가상공간 제작 사례와 의뢰 안내. 제작사 소개 페이지입니다.",
     "url": "https://www.funnyworks.co.kr/services/zep/",
     "kind": "virtual",
     "tags": [
@@ -1011,8 +1011,8 @@
     "name": "메타버즈 MetaBuzz",
     "category": "가상공간",
     "sub": "메타버스 체험 프로젝트",
-    "description": "한국 제작사가 만든 게임형 메타버스 공간과 교육·브랜드 체험 프로젝트를 둘러볼 수 있습니다.",
-    "url": "https://metabuzz.co.kr/portfolio",
+    "description": "국내 메타버스 마케팅 제작사 메타버즈의 공식 홈페이지. 직접 입장하는 가상세계가 아닌 제작사 소개입니다.",
+    "url": "https://metabuzz.co.kr/",
     "kind": "virtual",
     "tags": [
       "국내 제작",
@@ -1031,7 +1031,7 @@
     "name": "디타스 DTAAS",
     "category": "가상공간",
     "sub": "디지털트윈·가상공간",
-    "description": "국내 기업의 디지털트윈과 메타버스 공간 구축 기술을 소개하는 프로젝트 사이트.",
+    "description": "국내 디지털트윈·공간정보 기업 디타스의 회사 홈페이지로 알려진 주소. 최근 접속 오류가 확인되어 정상 접속 여부 재확인이 필요합니다.",
     "url": "https://www.dtaas.co.kr/",
     "kind": "virtual",
     "tags": [
@@ -1051,8 +1051,8 @@
     "name": "데이터킹 메타월드",
     "category": "가상공간",
     "sub": "VR 박물관·교육 메타버스",
-    "description": "국내 데이터킹의 360도 VR 박물관, 교육형 메타버스와 공동 제작 공간 서비스를 소개합니다.",
-    "url": "https://www.dataking.co.kr/",
+    "description": "한국콘텐츠진흥원 WelCon에 등록된 데이터킹 공식 기업·VR 박물관·3D 메타버스 서비스 소개 페이지. 기업 자체 홈페이지 접속은 미확인입니다.",
+    "url": "https://welcon.kocca.kr/emp/store/dataking",
     "kind": "virtual",
     "tags": [
       "국내 제작",
@@ -1071,7 +1071,7 @@
     "name": "스튜디오엑스 PLAY EARTH",
     "category": "가상공간",
     "sub": "가상 도시·게임",
-    "description": "국내 스튜디오엑스의 위치 기반 메타버스 게임 PLAY EARTH와 가상도시 프로젝트를 소개합니다.",
+    "description": "국내 스튜디오엑스의 PLAY EARTH 메타버스 게임 소개 페이지. 게임 실행 가능 여부는 별도 확인이 필요합니다.",
     "url": "https://www.studiox.co.kr/",
     "kind": "virtual",
     "tags": [
@@ -1091,8 +1091,8 @@
     "name": "TmaxMetaAI 3D Studio",
     "category": "가상공간",
     "sub": "3D 월드 제작 스튜디오",
-    "description": "국내 티맥스메타AI가 소개하는 3D 공간 제작 스튜디오와 웹 기반 메타버스 기술.",
-    "url": "https://tmaxmetaverse.wixsite.com/website-7/aboutus-eng",
+    "description": "국내 TmaxMetaAI의 GAIA MX 웹 기반 3D 공간 제작 기술 소개 페이지. 직접 체험 링크가 아닌 제품 설명입니다.",
+    "url": "https://tmaxmetaverse.wixsite.com/website-7/product",
     "kind": "virtual",
     "tags": [
       "국내 제작",
@@ -1111,8 +1111,8 @@
     "name": "삼양월드",
     "category": "가상공간",
     "sub": "기업 가상섬·체험",
-    "description": "삼양그룹이 제작한 ZEP 기반 가상섬. 실제 사업장 재현과 홍보·퀴즈 공간을 소개합니다.",
-    "url": "https://samyang.co.kr/en/media/samyangworld",
+    "description": "삼양그룹이 제작한 ZEP 기반 삼양월드 가상섬 입장 링크. 입장 시점의 공간 공개 여부는 별도 확인이 필요합니다.",
+    "url": "https://zep.us/play/2eXYGr",
     "kind": "virtual",
     "tags": [
       "국내 제작",
