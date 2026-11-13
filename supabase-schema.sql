@@ -181,13 +181,13 @@ begin
  v_today:=(now() at time zone 'Asia/Seoul')::date;
  select count(*) into v_count from public.moyo_community_submissions
  where (created_at at time zone 'Asia/Seoul')::date=v_today;
- if v_count>=10 then return jsonb_build_object('ok',false,'reason','limit'); end if;
+ if v_count>=30 then return jsonb_build_object('ok',false,'reason','limit'); end if;
  v_id:='community-'||replace(gen_random_uuid()::text,'-','');
  insert into public.moyo_tools(id,name,url,category,sub,description,kind,price_type,mobile_friendly,verified,tags)
  values(v_id,trim(p_name),trim(p_url),p_category,trim(coalesce(p_sub,'')),trim(p_description),
  case when p_category='가상공간' then 'virtual' else 'tool' end,p_price_type,coalesce(p_mobile_friendly,false),false,'{}');
  insert into public.moyo_community_submissions(tool_id) values(v_id);
- return jsonb_build_object('ok',true,'id',v_id,'remaining',9-v_count);
+ return jsonb_build_object('ok',true,'id',v_id,'remaining',29-v_count);
 end; $$;
 revoke all on function public.moyo_submit_site(text,text,text,text,text,text,boolean) from public;
 grant execute on function public.moyo_submit_site(text,text,text,text,text,text,boolean) to anon,authenticated;
