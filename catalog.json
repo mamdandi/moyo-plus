@@ -925,5 +925,205 @@
     "image_url": "https://moyo-plus.vercel.app/assets/services/openui.jpg",
     "created_at": "2026-11-10T00:00:00Z",
     "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-1",
+    "name": "마이버스 MYVRS",
+    "category": "가상공간",
+    "sub": "가상 스튜디오·콘텐츠 제작",
+    "description": "국내 스케일 버추얼의 가상공간 앱. 직접 공간을 꾸미고 가상카메라로 콘텐츠를 촬영하는 서비스.",
+    "url": "https://myvrs.me/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "서비스"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=myvrs.me&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-2",
+    "name": "THERE",
+    "category": "가상공간",
+    "sub": "3D 커뮤니티·메타버시티",
+    "description": "국내에서 제작한 3D 가상공간 커뮤니티. 메타버시티와 다양한 테마의 가상 공간을 소개합니다.",
+    "url": "https://there.space/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "서비스"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=there.space&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-3",
+    "name": "도미네이트",
+    "category": "가상공간",
+    "sub": "AR·메타버스 월드 제작",
+    "description": "국내 메타버스 제작사의 가상세계 프로젝트와 AR 공간 구축 사례를 소개하는 사이트.",
+    "url": "https://dominate.co.kr/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "제작사"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=dominate.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-4",
+    "name": "퍼니웍스 가상공간",
+    "category": "가상공간",
+    "sub": "브랜드·교육 가상공간",
+    "description": "국내 제작팀이 만든 ZEP 기반 브랜드 전시, 교육 및 이벤트 가상공간 사례를 소개합니다.",
+    "url": "https://www.funnyworks.co.kr/services/zep/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "제작사"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=funnyworks.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-5",
+    "name": "메타버즈 MetaBuzz",
+    "category": "가상공간",
+    "sub": "메타버스 체험 프로젝트",
+    "description": "한국 제작사가 만든 게임형 메타버스 공간과 교육·브랜드 체험 프로젝트를 둘러볼 수 있습니다.",
+    "url": "https://metabuzz.co.kr/portfolio",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "프로젝트"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=metabuzz.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-6",
+    "name": "디타스 DTAAS",
+    "category": "가상공간",
+    "sub": "디지털트윈·가상공간",
+    "description": "국내 기업의 디지털트윈과 메타버스 공간 구축 기술을 소개하는 프로젝트 사이트.",
+    "url": "https://www.dtaas.co.kr/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "제작사"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=dtaas.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-7",
+    "name": "데이터킹 메타월드",
+    "category": "가상공간",
+    "sub": "VR 박물관·교육 메타버스",
+    "description": "국내 데이터킹의 360도 VR 박물관, 교육형 메타버스와 공동 제작 공간 서비스를 소개합니다.",
+    "url": "https://www.dataking.co.kr/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "서비스"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=dataking.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-8",
+    "name": "스튜디오엑스 PLAY EARTH",
+    "category": "가상공간",
+    "sub": "가상 도시·게임",
+    "description": "국내 스튜디오엑스의 위치 기반 메타버스 게임 PLAY EARTH와 가상도시 프로젝트를 소개합니다.",
+    "url": "https://www.studiox.co.kr/",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "프로젝트"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=studiox.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-9",
+    "name": "TmaxMetaAI 3D Studio",
+    "category": "가상공간",
+    "sub": "3D 월드 제작 스튜디오",
+    "description": "국내 티맥스메타AI가 소개하는 3D 공간 제작 스튜디오와 웹 기반 메타버스 기술.",
+    "url": "https://tmaxmetaverse.wixsite.com/website-7/aboutus-eng",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "제작사"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=tmaxmetaverse.wixsite.com&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
+  },
+  {
+    "id": "kr-virtual-10",
+    "name": "삼양월드",
+    "category": "가상공간",
+    "sub": "기업 가상섬·체험",
+    "description": "삼양그룹이 제작한 ZEP 기반 가상섬. 실제 사업장 재현과 홍보·퀴즈 공간을 소개합니다.",
+    "url": "https://samyang.co.kr/en/media/samyangworld",
+    "kind": "virtual",
+    "tags": [
+      "국내 제작",
+      "프로젝트"
+    ],
+    "price_type": "확인 필요",
+    "mobile_friendly": null,
+    "verified": false,
+    "verified_at": null,
+    "image_url": "https://www.google.com/s2/favicons?domain=samyang.co.kr&sz=128",
+    "created_at": "2026-11-14T00:00:00+09:00",
+    "favoriteCount": 0
   }
 ]
